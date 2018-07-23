@@ -1,0 +1,27 @@
+{
+  "name": "mySQL_bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "firebase": "^5.2.0",
+    "inquirer": "^6.0.0",
+    "md5": "^2.2.1",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oseithompson/mySQL_bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oseithompson/mySQL_bamazon/issues"
+  },
+  "homepage": "https://github.com/oseithompson/mySQL_bamazon#readme"
+}
